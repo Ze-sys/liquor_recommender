@@ -4,7 +4,7 @@ This is an attempt at building  a liquor (specifically beer) recommending system
 
 I used selenium for scraping. The plan was to use scrappy, which is much faster,  but it turns out the website in question is heavy on java script.
 
-
+Everything is in the notebook beer_grabber.ipynb.
 
 <h3>Results</h3>
 
