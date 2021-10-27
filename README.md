@@ -2,7 +2,7 @@
 This is an attempt at building  a liquor (specifically beer) recommending system using web scraping of a local liquor distributor's website.  My Sunday league team may find it a valuable tool :) 
 
 
-I used selenium for scraping. The plan was to use scrappy, which is much faster,  but it turns out the website in question is heavy on java script.
+I used selenium for scraping. The plan was to use scrappy, which is much faster,  but it turns out the website in question is heavy on java script. I have a bigger project that used scarppy to analyse food recipe data from around the web, and writing an article about it.
 
 Everything is in the notebook beer_grabber.ipynb.
 
