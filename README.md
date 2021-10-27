@@ -22,4 +22,4 @@ Everything is in the notebook beer_grabber.ipynb.
 This was a basic data science. We scrapped beer data (N = 240) from a major liquor distributor's website, and did some basic analysis like correlation calculations. The overarching goal of this exercise was to build a beer classfier model based on ratings. It is now clear that ratings are not correlated with any of the features in our dataset. Along the way, though, we came up with basic metrics to help us choose beer next time we hit the liquor store.
 Maybe other factors such as alcohol content, historical or cultural relevances  beer types are better predictors. 
 
-<p> NB: This is a personal fun project. I tried to follow all the ethical web scraping methods. Read the robots.txt file, gave ample time between requests and tried to represent myself to the server in case the website owners did not like all of that.</p>
+<p> NB: This is a personal fun project. I tried to follow all the ethical web scraping methods. Read the robots.txt file, gave ample time between requests and tried to represent myself to the server in case the website owners did not like all of that and wanted to stop me.</p>
